@@ -1,0 +1,104 @@
+
+html{
+	font-size:100%;
+}
+
+h1{
+	font: normal bold 5rem Arial;
+	float: left;
+	margin-left: 20%;
+}
+h2{
+	font: normal bold 1.5rem Arial;
+	float: left;
+}
+video{
+	clear: left;
+	float: right;
+	margin-right: 35%;
+}
+p{
+	font: normal normal 1rem Arial;
+}
+div{
+	width: 100%;
+}
+table{
+	width: 45%
+}
+#taskList{
+	clear:left;
+	float: left;
+	width:100%;
+}
+.thumbnail:hover{
+	background-color: #f9ee1b;
+	border: 1px solid gray;
+	padding: 1px;
+	float: left;
+	width: 100%;
+
+}
+
+#pics{
+	float: left;
+	margin-left: 27%
+}
+#me {
+	clear: left;
+	width: 25%;
+	float: left;
+	color: #dc42f4;
+	padding: 2px;
+	border: 4px solid #dc42f4;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+#ToDo{
+	clear:left;
+	float:left;
+}
+#createCategory{
+	clear:left;
+	float:left;
+}
+
+th {
+	color: white;
+	background-color: #dc42f4;
+	padding: 5px;
+	width: 30%;
+}
+
+#navigation {
+	width: 100%;
+	margin: 0 auto;
+	position: fixed;
+}
+
+
+.navigation {
+	display: inline;
+	text-align: center;
+	background-color: #dc42f4;
+	color: white;
+	padding: 5px;
+}
+
+img {
+	width: 100%;
+	padding: 1px;
+	border: 1px solid #dc42f4;
+	float: left;
+}
+
+
+#bioP{
+	clear: left;
+	float: left;
+	margin-right: 5%;
+}
+
+body{
+	background-color: #d0bcd3;
+}
