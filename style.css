@@ -12,13 +12,15 @@ h2{
 	font: normal bold 1.5rem Arial;
 	float: left;
 }
-video{
-	clear: left;
-	float: right;
-	margin-right: 35%;
-}
+
+	
 p{
 	font: normal normal 1rem Arial;
+}
+iframe{
+	clear:left;
+	float: right;
+	margin-right: 17%;
 }
 div{
 	width: 100%;
